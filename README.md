@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhiraj Kumar Sah
 - 👀 I’m interested in Web Design and Problem Solving 
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning Java Web Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
